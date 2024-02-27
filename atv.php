@@ -12,7 +12,7 @@
     <?php
     define("CONSTANT", "Hello World.");
     echo CONSTANT; //imprime "Helo World."
-    echo Constant; //imprime "Constant" e gera um alerta notice.
+    //echo Constant;: Mostra a frase desejada na página. //imprime "Constant" e gera um alerta notice.
     ?>
 </body>
 </html>
